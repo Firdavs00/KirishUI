@@ -51,8 +51,8 @@
 		CE319919272BBCC1002BA77D /* ZadaniUI */ = {
 			isa = PBXGroup;
 			children = (
+				CE31992A272BC7BC002BA77D /* Screens */,
 				CE31991A272BBCC1002BA77D /* ZadaniUIApp.swift */,
-				CE31991C272BBCC1002BA77D /* ContentView.swift */,
 				CE31991E272BBCC3002BA77D /* Assets.xcassets */,
 				CE319920272BBCC3002BA77D /* Preview Content */,
 			);
@@ -65,6 +65,14 @@
 				CE319921272BBCC3002BA77D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CE31992A272BC7BC002BA77D /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				CE31991C272BBCC1002BA77D /* ContentView.swift */,
+			);
+			path = Screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
